@@ -1,3 +1,3 @@
 # challenge-basic-7350-smkdev
 
-![ezgif com-gif-maker](https://github.com/mikuah/challenge-smkdev/assets/92192454/9505e863-fdcc-4a5e-aae6-c854fcc72103)
+![ezgif com-gif-maker (1)](https://github.com/mikuah/challenge-smkdev/assets/92192454/5495b375-1fb5-43f0-8881-a06331dcc0b2)
