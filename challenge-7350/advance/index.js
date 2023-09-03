@@ -11,7 +11,7 @@ for (let i = start; i <= end; i++) {
       break;
     }
   }
-  if (flag == 0 && i != 1 && i > 1) console.log(i);
+  if (flag == 0 && i != 1 && i > 0) console.log(i);
 }
 
 //bisa juga dibuat fungsi. start dan end nya pakai parameter
