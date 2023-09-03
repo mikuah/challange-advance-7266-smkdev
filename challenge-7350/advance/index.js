@@ -1,4 +1,4 @@
-const start = 0;
+const start = 25;
 const end = 50;
 
 console.log(`Prime numbers between ${start} and ${end} are:`);
